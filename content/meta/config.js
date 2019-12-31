@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "IcchyLog", // <title>
   shortSiteTitle: "IcchyLog", // <title> ending for posts and pages
   siteDescription: "IcchyLog is a site for icchy.",
-  siteUrl: "https://xxxxxxxxxxxxxxxxxxxxxxx.x",
+  siteUrl: "https://icchy-blog.netlify.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "jp",
