@@ -2,6 +2,7 @@
 title: Other GatsbyJS starters
 menuTitle: Starters
 ---
+テンプレートとして使ったやつはこれです↓↓
 
 **HeroBlog** is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
 
